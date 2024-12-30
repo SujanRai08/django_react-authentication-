@@ -1,0 +1,9 @@
+djangorestframework
+django
+djangorestframework-simplejwt
+django-cors-headers
+bcrypt
+django-allauth
+django-axes
+django-rest-passwordreset
+django-environ
